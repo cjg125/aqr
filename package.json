@@ -1,0 +1,8 @@
+{
+  "name": "aqr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cjg125/aqr.git",
+  "author": "caojungang <caojungang@sogou-inc.com>",
+  "license": "MIT"
+}
